@@ -13,4 +13,6 @@
 
 ### 3 - Glisser tous les fichiers à la racine ainsi que les dossiers "vendor" et "core"
 
+![glisser](glisser_deposer.png)
 
+### 4 - Aller à sur update.php
