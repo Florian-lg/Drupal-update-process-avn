@@ -16,3 +16,7 @@
 ![glisser](glisser_deposer.png)
 
 ### 4 - Aller à sur update.php
+
+![update](update.png)
+
+⚠️ Si erreur, probable que cela vienne du .htaccess, dans ce cas copier le contenu de l'ancien dans le nouveau ⚠️
