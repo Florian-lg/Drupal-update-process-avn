@@ -9,7 +9,7 @@
 
 ### 2 - Télécharger la dernière version de Drupal 8
 
-<a href="https://www.drupal.org/download">Le lien pour la dernière version</a>
+<a href="https://www.drupal.org/download-latest/zip">Le lien pour la dernière version</a>
 
 ### 3 - Glisser tous les fichiers à la racine ainsi que les dossiers "vendor" et "core"
 
