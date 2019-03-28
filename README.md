@@ -3,6 +3,8 @@
 
 <h1 align="center">Mise à jour de drupal 8</h1>
 
+## ⚠️ Avant toute chose, faire un backup et mettre le site en maintenance ⚠️
+
 ### 1 - Supprimer tous les fichiers à la racine ainsi que les dossiers "vendor" et "core" 
 
 ![delete](delete_this.png)
